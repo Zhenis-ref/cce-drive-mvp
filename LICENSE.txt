@@ -1,0 +1,24 @@
+Custom Non-Commercial Research License
+Copyright (c) Zhengis Tileubay
+
+Permission is granted to any person obtaining a copy of this repository and associated documentation files to use, read, copy, modify, and share the materials solely for:
+
+1. personal study,
+2. academic discussion,
+3. scientific review,
+4. non-commercial research,
+5. non-commercial reproducibility and benchmarking.
+
+The following are NOT permitted without prior written permission from the author:
+
+1. commercial use of the code, model, or derived methods;
+2. integration into commercial software, services, or industrial systems;
+3. deployment in commercial energy, AI, control, or optimization products;
+4. sublicensing, resale, or closed-source commercialization of any part of this repository;
+5. filing derivative patent claims based substantially on the methods disclosed here.
+
+This repository is provided “as is”, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose, merchantability, and noninfringement.
+
+The author shall not be liable for any claim, damages, or other liability arising from the use of the repository.
+
+For commercial licensing, industrial collaboration, or technology transfer, prior written permission from the author is required.

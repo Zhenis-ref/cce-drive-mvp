@@ -1,0 +1,25 @@
+dt: 0.25
+horizon_steps: 10
+action_lattice:
+  accel_values: [-6.0, -4.5, -3.0, -1.5, -0.5, 0.0, 0.5, 1.5, 3.0, 4.0, 5.0]
+  steer_values: [-0.35, -0.28, -0.21, -0.14, -0.07, 0.0, 0.07, 0.14, 0.21, 0.28, 0.35]
+planner:
+  gross_horizon_seconds: 0.6
+planner:
+  gross_horizon_seconds: 0.8
+  low_risk_k: 24
+  medium_risk_k: 24
+  high_risk_k: 21
+  critical_risk_k: 17
+  emergency_anchor_count: 11
+  diversity_per_cluster: 2
+weights:
+  collision: 1000.0
+  margin_inverse: 15.0
+  lane: 50.0
+  feasibility: 200.0
+  progress: 1.0
+  comfort: 0.2
+scenarios:
+  default_lane_width: 3.7
+  default_road_length: 200.0
