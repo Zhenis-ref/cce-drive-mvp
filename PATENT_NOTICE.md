@@ -6,9 +6,14 @@ The underlying method and related control principles are associated with patent-
 
 Relevant priority and patent context include:
 
-* Kazakhstan filing priority: 09 July 2025
-* PCT filing date: 05 January 2026
-* Title: “Method for Controlling the Dynamics of a Complex System”
+1. **International Patent Application Published:**
+   - **Title:** "Method for Controlling the Dynamics of a Complex System"
+   - **Publication No.:** [WO/2026/155638](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2026155638)
+   - **International Application No.:** PCT/KZ2026/000001
+
+2. **International Patent Application Pending:**
+   - **Title:** "Method for Forming a Composite State Space for Monitoring, Prediction and Control of a Complex Dynamic System"
+   - **International Application No.:** PCT/KZ2026/000029
 
 This repository is published for scientific, research, review, and non-commercial evaluation purposes only.
 
